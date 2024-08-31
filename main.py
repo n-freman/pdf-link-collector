@@ -1,5 +1,5 @@
-import sys
 import re
+import sys
 from pprint import pprint
 
 from pypdf import PdfReader
